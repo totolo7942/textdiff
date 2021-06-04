@@ -1,0 +1,9 @@
+aaron/textdiff/DiffStrMatchPatcher.java
+ aaron.textdiff.DiffStrMatchPatcher
+external/library/google/diff_match_patch.java
+ external.library.google.diff_match_patch
+ external.library.google.diff_match_patch$1
+ external.library.google.diff_match_patch$Diff
+ external.library.google.diff_match_patch$LinesToCharsResult
+ external.library.google.diff_match_patch$Operation
+ external.library.google.diff_match_patch$Patch
